@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- documento xml da validare -->
+<!-- 
+    file: esercizio-doc-da-validare
+    nome: Adele Stilo
+    data: 02/04/2023
+-->
+
+<!-- corpo del documento XML-->
+<elementoRadice>
+    <elementoFiglio>
+        <elementoAnnidato>
+        </elementoAnnidato>
+    </elementoFiglio>
+    <elementoFiglio>
+        <elementoAnnidato>
+            <elementoAnnidato>
+            </elementoAnnidato> <!--Ho spostato la chiusura di questo elemento, altrimenti intersecato con elemento figlio.-->
+            <elementoFiglio>        
+            </elementoFiglio>
+        </elementoAnnidato> <!--Ho aggiunto "/" per il tag di chiusura.-->
+        <elementoFiglio>
+        <elementoFiglio2> <!--Ho aggiunto questo elemento figlio.-->
+        </elementoFiglio2>
+        </elementoFiglio>
+    </elementoFiglio>
+    <elementoFratello> <!--Ho aggiunto questo elemento, fratello degli "elementoFiglio" figli diretti di "elementoRadice".-->
+    </elementoFratello>
+</elementoRadice>
+
+<!-- epilogo -->
