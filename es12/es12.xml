@@ -44,7 +44,7 @@
                     <lb xml:id="r2l1" n="1"/>
                     à Monsieur
                     <lb xml:id="r2l2" n="2"/>
-                    Monsieur le <roleName role="count">Comte</roleName> <rs type="person">Pepoli</rs>
+                    Monsieur le <roleName role="count">Comte</roleName> <persName>Pepoli</persName>
                     <lb xml:id="r2l3" n="3"/>
                     <address>
                         <addrLine> N<g ref="U+00B0">°</g>1<pc>:</pc></addrLine>
@@ -63,7 +63,7 @@
                     <lb xml:id="r3l2" n="5"/>
                     Lettera del
                     <lb xml:id="r3l3" n="6"/>
-                    <rs type="person">Bellini</rs> sul Duetto
+                    <persName>Bellini</persName> sul Duetto
                     <lb xml:id="r3l4" n="7"/>
                     del p <g ref="U+00B0">°</g><objectName>Atto dei Puritani</objectName> 
                 </p>
@@ -98,7 +98,7 @@
                     <lb xml:id="r5l7" n="16"/>
                     nell'<distinct type="archaic">istesso</distinct> tempo darmi la 
                     <lb xml:id="r5l8" n="17"/>
-                    sortita di <rs type="person">Rubini</rs><pc>,</pc> se è termi<pc>=</pc>
+                    sortita di <persName>Rubini</persName><pc>,</pc> se è termi<pc>=</pc>
                     <lb xml:id="r5l9" n="18" break="yes"/>
                     nata<pc>.</pc> T'aspetto in questi giorni
                     <lb xml:id="r5l10" n="19"/>
