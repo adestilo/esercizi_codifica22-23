@@ -1,0 +1,37 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La coscienza di Zeno versione elettronica</title>
+                <respStmt>
+                    <resp>Conversione a cura di</resp>
+                    <name>Adele Stilo</name>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>La coscienza di Zeno</title>
+                    <author>Italo Svevo</author>
+                    <publisher>Einaudi editore</publisher>
+                    <date when="1973">1973</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+                <head>Prefazione</head>
+                <p>Io sono il dottore di cui in questa novella si parla talvolta con parole poco lusinghiere. Chi di psico-analisi s'intende, sa dove piazzare l'antipatia che il paziente mi dedica.</p>
+                <p>Di psico-analisi non parlerò perché qui entro se ne parla già a sufficienza. <distinct>Debbo</distinct> scusarmi di aver indotto il mio paziente a scrivere la sua autobiografia; gli studiosi di psico-analisi arricceranno il naso a tanta novità. 
+                Ma egli era vecchio ed io sperai che in tale rievocazione il suo passato si rinverdisse, che l'autobiografia fosse un buon preludio alla psico-analisi. 
+                Oggi ancora la mia idea mi pare buona perché mi ha dato dei risultati insperati, che sarebbero stati maggiori se il malato sul più bello non si fosse sottratto alla cura truffandomi del frutto della mia lunga paziente analisi di queste memorie.</p>
+                <p>Le pubblico per vendetta e spero gli dispiaccia. Sappia però ch'io sono pronto di dividere con lui i lauti onorari che ricaverò da questa pubblicazione a patto egli riprenda la cura. Sembrava tanto curioso di se stesso! Se sapesse quante sorprese potrebbero risultargli dal commento delle tante verità e bugie ch'egli ha qui accumulate!...</p>
+                <persName>Dottor <abbr>S.</abbr></persName>
+            </div>
+        </body>
+    </text>
+</TEI>

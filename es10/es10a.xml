@@ -1,0 +1,34 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<!--articolo-->
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <biblStruct>
+                <monogr>
+                    <author>Francesca Menchi</author>
+                    <title>Come fanno i bambini piccoli a capire di avere un estraneo davanti (e a temerlo)?</title>
+                    <imprint>
+                        <pubPlace>Focus</pubPlace>
+                        <date when="2023">2023</date>
+                        <biblScope unit="pages">1</biblScope>
+                    </imprint>
+                </monogr>
+            </biblStruct>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <p>
+                Secondo uno studio guidato da Kalanit Grill-Spector della Stanford University, in California, e pubblicato su New Scientist, 
+                questa reazione è possibile perché i bambini molto piccoli sono in grado di identificare i volti delle persone prima di ogni altra cosa, come per esempio delle automobili o delle lettere dell'alfabeto. 
+                E a questa conclusione, i ricercatori sono giunti scoprendo che i bambini di soli quattro mesi producono un segnale cerebrale distinto quando vedono un'immagine del volto di qualcuno, e che questo segnale diventa più forte a partire dai sei mesi.
+            </p> 
+            <p>
+                Per capire meglio come i bambini interpretano il mondo che li circonda, i ricercatori hanno studiato l'attività cerebrale di <num>45</num> piccoli di età compresa tra i tre e i <num>15</num> mesi mentre guardavano una serie di immagini che apparivano rapidamente: 
+                volti di estranei, corridoi, automobili, lettere dell'alfabeto e gli arti di corpi umani. Il team ha scelto queste immagini, che erano tutte grigie, poiché sono regolarmente presenti nella vita della maggior parte dei bambini e le ha proiettate su uno schermo per un minuto alla volta. 
+                L'esperimento di un minuto è stato ripetuto da sei a <num>12</num> volte per bambino l'elettroencefalogramma misurava l'attività cerebrale.
+            </p>
+        </body>
+    </text>
+</TEI>
